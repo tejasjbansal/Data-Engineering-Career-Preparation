@@ -212,11 +212,3 @@ graph TD;
 
 # 🙌 Let's Go! 🚀
 
----
-  
----
-
----
-
-Would you also like me to **generate a fully stylized PDF version** of this README? 📄✨ (It will look amazing if you want to print or add to a portfolio!)  
-Would you want that? 🔥  
